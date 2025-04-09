@@ -1,9 +1,10 @@
-## Hi there 👋
-<img src="https://github.com/connieding/connieding/blob/main/assets/banner.jpg" alt="Connie banner">
+<img src="https://github.com/connieding/connieding/blob/main/assets/newBanner.jpg" alt="Connie banner">
 
-🌷 I'm a software engineering student located in Auckland, New Zealand 🌷
+<p align="center"> 🌷 I'm a software engineering student located in Auckland, New Zealand 🌷 </p>
 
-
+<p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=connieding&show_icons=true&theme=catppuccin_latte">
+</p>
 <!--
 **connieding/connieding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
